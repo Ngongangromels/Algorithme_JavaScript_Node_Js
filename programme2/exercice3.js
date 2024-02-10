@@ -1,0 +1,13 @@
+var nom = "Tya";
+var age = 30;
+var sexe = "fillle";
+var poids = 60;
+var couleurYeux = "bleus";
+console.log("%s a %d ans c'est une %s, elle pese %d kilos et a les yeux %s",nom, age, sexe, poids, couleurYeux);
+console.log("/n");
+var nomMilo = "Milo";
+var ageMilo = 31;
+var sexeMilo = "garcon";
+var poidsMilo = 70;
+var couleurYeuxMilo = "marron";
+console.log("%s a %d ans c'est un %s, il pese %d kilos et a les yeux %s",nomMilo, ageMilo, sexeMilo, poidsMilo, couleurYeuxMilo);
